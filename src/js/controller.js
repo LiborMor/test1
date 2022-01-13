@@ -135,6 +135,7 @@ const init = function () {
   paginationView.addHandlerPagination(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
   newFeature();
+  console.log(`Agaion again`);
 };
 
 init();
