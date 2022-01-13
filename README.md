@@ -1,4 +1,7 @@
 # forkify Project
 
 Recipe application with custom recipe uploads
-The first big JavaScript learning project using MVC architecture
+My first big JavaScript learning project using MVC architecture
+
+
+https://libor-forkify.netlify.app
